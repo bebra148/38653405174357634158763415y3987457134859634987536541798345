@@ -6,14 +6,16 @@ local allowedSteamIDs = {
     ["STEAM_0:0:893334411"] = true, --dezz
     ["STEAM_1:1:813771985"] = true, --dubley
     ["STEAM_0:1:508504180"] = true, --doylez
+    ["STEAM_0:0:644426135"] = true, --krestovina
 }
 
 -- Список пользователей и паролей
 local validUsers = {
-    ["bumpkin"] = "femboy",  -- Логин = user, Пароль = qwerty
-    ["katsunny"] = "protogensupersexdezzkatsunny1",  -- Логин = user, Пароль = qwerty
-    ["ailevkakoi"] = "sosta100cotka",  -- Логин = user, Пароль = qwerty
-    ["test"] = "1234",  -- Логин = user, Пароль = qwerty
+    ["bumpkin"] = "femboy", 
+    ["katsunny"] = "protogensupersexdezzkatsunny1",  
+    ["ailevkakoi"] = "sosta100cotka",
+    ["test"] = "1234",  
+    ["krestovina"] = "1d",  
 }
 
 -- Получаем SteamID текущего игрока
