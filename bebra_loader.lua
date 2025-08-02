@@ -1,8 +1,8 @@
 -- Список разрешённых SteamID (добавь свои)
 local allowedSteamIDs = {
-    ["STEAM_1:1:600204671"] = true, --bumkin
-    ["STEAM_1:0:923364789"] = true, --bumkin
-    ["STEAM_1:1:921132691"] = true, --bumkin
+    ["STEAM_0:1:600204671"] = true, --bumkin
+    ["STEAM_0:0:923364789"] = true, --bumkin
+    ["STEAM_0:1:921132691"] = true, --bumkin
     ["STEAM_0:0:893334411"] = true, --dezz
     ["STEAM_1:1:813771985"] = true, --dubley
     ["STEAM_0:1:508504180"] = true, --doylez
